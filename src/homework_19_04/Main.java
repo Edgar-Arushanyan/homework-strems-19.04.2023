@@ -17,7 +17,7 @@ public class Main {
 Используя стримы, написать метод, принимающий список персонов и возвращающий список адресов тех,
  кто старше 17 лет.
 
-List\<Address>getAddresses(List\<Person> input)
+List<Address >getAddresses (List<Person> input)
      */
   public static void main(String[] args) {
 
